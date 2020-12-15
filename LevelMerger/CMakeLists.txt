@@ -13,6 +13,7 @@ set(SRC
 	src/pch.hpp
 	src/opengl.hpp
 	src/System/System.hpp
+	src/System/System.cpp
 	src/Camera/Camera.cpp
 	src/Camera/Camera.hpp
 	src/Window/Window.cpp

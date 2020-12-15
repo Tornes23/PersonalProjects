@@ -10,6 +10,7 @@
 window class
 ***************************************************************************/
 #include "glm/vec2.hpp"
+#include <glfw/glfw3.h>
 
 class window
 {
